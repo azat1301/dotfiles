@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = azatallayarow@gmail.com
+	name = Azat Allayarov
